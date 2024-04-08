@@ -24,5 +24,7 @@ Listo, con esto tenemos nuestro repo en github con lo que hayamos subido
 
 * git remote set-url origin <URL_CORRECTA>
 
+# clonar el repo
 
+* git clone direccion del repo
 
