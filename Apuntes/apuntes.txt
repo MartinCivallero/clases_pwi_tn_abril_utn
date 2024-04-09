@@ -1,0 +1,23 @@
+alt + shif + a  ---- añade comentario
+SEO ---- significa Search Engine Optimization
+El correcto uso de las etquetas HEading son de SEO
+El exceso de H1 hace q el navegador no nos recomiende, tiene q ser logico el uso de los H1
+Hay HASTA H6 es muy raro llegar a tantos
+
+P ----- etiqueta de parrafo
+span ----- etiqueta sin suficiente contenido para ser un parrafo ni gerarquia ni es un link, es una decoracion o un extra, suelen ser cosas chicas
+emoji ----  telca de win + .
+
+div  ---- sirve para dividir un contenido de otro
+identar ----- con TAB seleccionando lo q se quiere identar
+Des identar ----
+a ----- Anchor (link)
+target= _blank ---- hace q abra la direccion sino solo la imagen, no saca el trafico a otra web
+
+ETIQUETA en azul oscuro al lado del angular
+
+en celeste es el ATRIBUTO, puede haber muchos atributos en cada etiqueta
+
+VALORES de los atributos en naranja claro
+
+br hace un salto de linea
