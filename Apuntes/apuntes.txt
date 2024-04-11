@@ -20,4 +20,26 @@ en celeste es el ATRIBUTO, puede haber muchos atributos en cada etiqueta
 
 VALORES de los atributos en naranja claro
 
-br hace un salto de linea
+br hace un salto de linea, es una mala practica, usarlo solo para salto de lineas en un parrafo
+
+strong ---- pone la letra en negrita
+
+
+descargar audios de prueba   http://sonidosmp3gratis.com/download.php?id=5404&sonido=taller%20mecanico
+
+descargar videos de prueba   https://www.videvo.net/es/video/raindrops-in-super-slow-motion/3313/
+
+MDN   ----- documentacion oficial  para consultar como hacer las cosas
+
+FORMULARIOS----- etiqueta form, y debe meterse ahi todo lo q es ingreso de datos
+
+PLACE HOLDER  ------ el texto en clarito q aparece preescrito en un input
+
+<!-- USAR SIEMPRE EL FOR : labelvincula con el ID del input, ayuda a la accesibilidad y al SEO-->
+
+<!-- el tipo es la forma, peude ser button, checkbox, dara, text, date ,etc, ver en MDN -->
+    <!-- name sirve para JS,  id sirve para --> 
+
+    El VALUE del OPTION es lo q se captura para el BACKEND
+
+    en un input con value cambiamos el texto del boton
