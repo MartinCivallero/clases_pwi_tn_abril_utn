@@ -1,0 +1,16 @@
+h2 {
+    color: red;
+}
+
+h1{
+    font-size: 50px;
+    color: blue;
+}
+/* selector de clase */.subtitulo-especial{ 
+    color: black;
+
+}
+
+/* selector universal */*{
+    font-family: sans-serif;
+}

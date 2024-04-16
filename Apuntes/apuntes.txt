@@ -43,3 +43,12 @@ PLACE HOLDER  ------ el texto en clarito q aparece preescrito en un input
     El VALUE del OPTION es lo q se captura para el BACKEND
 
     en un input con value cambiamos el texto del boton
+
+    CSS  -----> cascading style sheet  
+
+    HTML  ----> lenguaje de estructura
+
+    css es un lenguaje de estilo en cascada
+
+    css tiene SELECTORES
+
