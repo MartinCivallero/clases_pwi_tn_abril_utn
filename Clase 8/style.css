@@ -1,0 +1,14 @@
+
+body{
+    background-color: blue;
+}
+.caja{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border-radius: 10px;
+    border: 2px solid red; /* grosor, tipo, color */
+    color: white;
+    padding-left: 10px;
+    box-sizing: border-box;
+}

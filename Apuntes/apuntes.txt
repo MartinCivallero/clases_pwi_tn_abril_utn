@@ -7,7 +7,7 @@ Hay HASTA H6 es muy raro llegar a tantos
 P ----- etiqueta de parrafo
 span ----- etiqueta sin suficiente contenido para ser un parrafo ni gerarquia ni es un link, es una decoracion o un extra, suelen ser cosas chicas
 emoji ----  telca de win + .
-
+ID puede haber solo uno
 div  ---- sirve para dividir un contenido de otro
 identar ----- con TAB seleccionando lo q se quiere identar
 Des identar ----
@@ -52,3 +52,39 @@ PLACE HOLDER  ------ el texto en clarito q aparece preescrito en un input
 
     css tiene SELECTORES
 
+    vale mas el atributo en linea q el estyle, el estilo en linea tiene prioridad
+
+    la clase tiene mas valor q el H2
+
+jerarquias  :   abajo hacia arriba:
+
+selector de elementos (pongo el elemento solo)
+
+hero es la seccion principal del MAIN, las paginas de landings la tienen todas
+
+ARTICULO: cajas donde lo mas importante es el texto
+
+NAVEGADORES  2 tipos, con sub elementos (COMPLEJO) o simple 
+
+etiqueta NAvegadores  ----- >  NAV
+
+cuando hay sub elementos se utiliza jerarquia con listas
+
+OL order list, lista ordenada (usamos poco)
+
+LI lis item, item de lista
+
+UL lista desordenada, el orden de los elementos no es importante
+
+cuando un elemento ocupa todo el ancho es un elemento EN BLOQUE
+
+ELEMENTOS EN LINE  ----> miden lo que mide su contenido
+
+elementos EN BLOQUE -----> ocupan todo el espacio
+
+BLOQUE :   div, header, nav, section, aside, etc,
+h1, h2, h3
+P , form, ul, li
+
+
+LINEA : img, input, button, selec, video, iframe, audio, textarea
